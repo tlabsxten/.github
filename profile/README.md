@@ -54,7 +54,7 @@ Explore the projects. Each dossier expands to reveal its purpose and engineering
 <tr>
 <td width="33%" align="center" valign="top">
 
-<img src="./assets/jarkata.png" width="140" alt="Jarkata logo"/>
+<img src="./assets/jarkata.PNG" width="140" alt="Jarkata logo"/>
 
 ### JARKATA
 
