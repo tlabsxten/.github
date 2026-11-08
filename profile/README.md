@@ -106,7 +106,7 @@ An experimental computing concept investigating proton-based information transpo
 <summary><b>JARKATA / 001 — IDENTITY INTELLIGENCE</b></summary>
 
 <div align="center">
-<img src="./assets/jarkata.png" width="180" alt="Jarkata"/>
+<img src="./assets/jarkata.PNG" width="180" alt="Jarkata"/>
 </div>
 
 **Mission**
@@ -133,7 +133,7 @@ Video-call impersonation, synthetic identities and identity-based social enginee
 <summary><b>NFM26 / 002 — SPORTS SIMULATION</b></summary>
 
 <div align="center">
-<img src="./assets/nfm26.png" width="180" alt="NFM26"/>
+<img src="./assets/nfm26.jpg" width="180" alt="NFM26"/>
 </div>
 
 **Mission**
