@@ -1,8 +1,9 @@
  <div align="center">
 
 <!-- HERO -->
+
 <p>
-  <img src="./assets/temple-hero.gif" width="100%" alt="Temple Labs futuristic engineering environment"/>
+  <img src="./assets/temple-hero.jpg" width="100%" alt="Temple Labs futuristic engineering environment"/>
 </p>
 
 # TEMPLE LABS
@@ -51,9 +52,11 @@ Explore the projects. Each dossier expands to reveal its purpose and engineering
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### ◉ JARKATA
+<img src="./assets/jarkata.png" width="140" alt="Jarkata logo"/>
+
+### JARKATA
 
 **DIGITAL IDENTITY INTELLIGENCE**
 
@@ -64,9 +67,11 @@ Real-time video-call impersonation detection for a world where seeing is no long
 <a href="#jarkata">OPEN PROJECT DOSSIER ↗</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### ◉ NFM26
+<img src="./assets/nfm26.jpg" width="140" alt="NFM26 logo"/>
+
+### NFM26
 
 **FOOTBALL SIMULATION**
 
@@ -77,32 +82,19 @@ A Nigerian football management universe combining tactical systems, player progr
 <a href="#nfm26">OPEN PROJECT DOSSIER ↗</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### ◉ SQWAD
+<img src="./assets/proton-x.png" width="140" alt="Proton-X logo"/>
 
-**DECENTRALIZED ECOSYSTEMS**
-
-Web3 infrastructure for discovery, digital profiles, community engagement and token ecosystems.
-
-`Web3` `Blockchain` `Smart Contracts`
-
-<a href="#sqwad">OPEN PROJECT DOSSIER ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ◉ PROTON-X
+### PROTON-X
 
 **ALTERNATIVE COMPUTING RESEARCH**
 
 An experimental computing concept investigating proton-based information transport as an alternative to conventional electron-based approaches.
 
-`Physics` `Computing Research` `Architecture`
+`Physics` `Electronics` `Research`
 
-<a href="#proton-x">OPEN PROJECT DOSSIER ↗</a>
+<a href="#proton-x">OPEN RESEARCH DOSSIER ↗</a>
 
 </td>
 </tr>
@@ -112,6 +104,10 @@ An experimental computing concept investigating proton-based information transpo
 
 <details id="jarkata">
 <summary><b>JARKATA / 001 — IDENTITY INTELLIGENCE</b></summary>
+
+<div align="center">
+<img src="./assets/jarkata.png" width="180" alt="Jarkata"/>
+</div>
 
 **Mission**
 
@@ -129,12 +125,16 @@ Video-call impersonation, synthetic identities and identity-based social enginee
 - AI-assisted identity detection
 - Enterprise security integrations
 
-**Target environments:** Recruitment, enterprise IT, online interactions.
+**Target environments:** Recruitment, enterprise IT and online interactions.
 
 </details>
 
 <details id="nfm26">
 <summary><b>NFM26 / 002 — SPORTS SIMULATION</b></summary>
+
+<div align="center">
+<img src="./assets/nfm26.png" width="180" alt="NFM26"/>
+</div>
 
 **Mission**
 
@@ -147,46 +147,46 @@ Build a rich football management simulation rooted in Nigerian football culture.
 - Club management and competition systems
 - 2D match simulation
 - Dynamic football narratives
-- Multilingual experiences
+- Multilingual player experiences
 
 **Engineering domains:** Simulation engineering, game systems, data modelling and interactive software.
 
 </details>
 
-<details id="sqwad">
-<summary><b>SQWAD / 003 — WEB3 ECOSYSTEMS</b></summary>
-
-**Mission**
-
-Explore decentralized digital communities and token-powered participation.
-
-**Systems**
-
-- Blockchain integrations
-- Wallet connectivity
-- Digital identity and profiles
-- Token discovery
-- Community engagement
-- Referral and rewards infrastructure
-
-</details>
-
 <details id="proton-x">
-<summary><b>PROTON-X / 004 — COMPUTATIONAL FRONTIER</b></summary>
+<summary><b>PROTON-X / 003 — ALTERNATIVE COMPUTING RESEARCH</b></summary>
+
+<div align="center">
+<img src="./assets/proton-x.png" width="220" alt="Proton-X"/>
+</div>
 
 **Mission**
 
-Investigate whether alternative physical mechanisms can support new approaches to computation.
+Investigate alternative physical mechanisms for information transport and computation, with particular interest in proton-based systems.
+
+Conventional electronic computing relies on the movement and control of electrons. Proton-X explores a different possibility: whether proton transport and manipulation could provide a foundation for alternative computational architectures.
+
+**Research dimensions**
+
+1. **Proton transport:** Investigating mechanisms through which protons could be moved and controlled within suitable materials.
+2. **Information representation:** Exploring how proton states, movement or distributions might encode information.
+3. **Computational operations:** Investigating whether controllable proton dynamics could support logic operations and information processing.
+4. **Materials science:** Studying proton-conducting materials, interfaces and physical constraints.
+5. **Energy and efficiency:** Examining switching energy, speed, stability and practical operating conditions.
+6. **Architecture:** Exploring how proton-based mechanisms might interact with conventional electronic systems.
 
 **Research questions**
 
-- How could protons act as information carriers?
-- What physical mechanisms could enable controllable proton transport?
-- What materials and structures would be required?
-- How would information encoding and computational operations work?
-- What are the energy, speed, stability and fabrication constraints?
+- Can proton transport be controlled with sufficient precision for computational applications?
+- What physical structures could support reliable information representation?
+- Could proton-based mechanisms complement conventional semiconductor technologies?
+- What fundamental limitations would prevent practical implementation?
 
-**Important:** Proton-X is a conceptual research direction, not a demonstrated working processor.
+**Research classification**
+
+`Computational Physics` · `Electronics` · `Materials Science` · `Alternative Computing`
+
+<sub>Proton-X is an experimental research concept. Its proposed computational mechanisms remain subject to theoretical and experimental validation.</sub>
 
 </details>
 
@@ -196,7 +196,7 @@ Investigate whether alternative physical mechanisms can support new approaches t
 
 # ⬡ 02 / ENGINEERING DISCIPLINES
 
-<details>
+<details open>
 <summary><b>01 — ARTIFICIAL INTELLIGENCE</b></summary>
 
 Intelligent agents, applied machine learning, LLM orchestration, computer vision and autonomous workflows.
@@ -225,7 +225,7 @@ Identity verification, secure application architecture, privacy-aware systems an
 </details>
 
 <details>
-<summary><b>05 — WEB3 & BLOCKCHAIN</b></summary>
+<summary><b>05 — BLOCKCHAIN & WEB3</b></summary>
 
 Smart contracts, decentralized applications, wallet infrastructure and blockchain integrations.
 
@@ -301,6 +301,7 @@ This is a conceptual reference architecture. Individual systems use architecture
 | Intelligent systems | Reliable autonomous agents |
 | Digital trust | Real-time identity intelligence |
 | Distributed systems | Resilient computational infrastructure |
+| Materials and electronics | Physical mechanisms for information transport |
 | Human-machine interfaces | More natural intelligent interactions |
 | Connected environments | Software interacting with physical infrastructure |
 
@@ -374,6 +375,7 @@ We welcome engineers, researchers, founders, designers and open-source contribut
 - Experimental computing
 - Product development
 - Systems architecture
+- Electronics and computational research
 
 <br/>
 
