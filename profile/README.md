@@ -1,296 +1,327 @@
-<!--
-  TEMPLE LABS
-  Organization profile README
-  Repository: .github/profile/README.md
--->
+ <div align="center">
 
-<div align="center">
+<!-- HERO -->
+<p>
+  <img src="./assets/temple-hero.gif" width="100%" alt="Temple Labs futuristic engineering environment"/>
+</p>
 
-# T E M P L E&nbsp; L A B S
+# TEMPLE LABS
 
 ### FORGE / ADVANCING HUMANITY.
 
-**WE DON'T JUST BUILD SOFTWARE. WE EXPLORE WHAT SOFTWARE CAN BECOME.**
-
-[ EXPLORE THE LAB ](#-explore-the-lab) &nbsp;·&nbsp;
-[ OUR SYSTEMS ](#-selected-engineering) &nbsp;·&nbsp;
-[ RESEARCH ](#-research--frontier) &nbsp;·&nbsp;
-[ COLLABORATE ](#-open-the-lab)
+**WE DON'T JUST BUILD SOFTWARE.**
+<br/>
+**WE EXPLORE WHAT SOFTWARE CAN BECOME.**
 
 <br/>
 
-![GitHub](https://img.shields.io/badge/ENGINEERING-01B56A?style=for-the-badge&labelColor=090D0B)
-![Research](https://img.shields.io/badge/RESEARCH-ONGOING-202020?style=for-the-badge&labelColor=090D0B)
-![Open Source](https://img.shields.io/badge/OPEN_SOURCE-EXPLORE-202020?style=for-the-badge&labelColor=090D0B)
+<a href="#projects">PROJECTS</a> &nbsp; ◈ &nbsp;
+<a href="#disciplines">DISCIPLINES</a> &nbsp; ◈ &nbsp;
+<a href="#architecture">ARCHITECTURE</a> &nbsp; ◈ &nbsp;
+<a href="#research">RESEARCH</a> &nbsp; ◈ &nbsp;
+<a href="#connect">CONNECT</a>
 
 </div>
 
 ---
 
-<details open>
-<summary><b>⌘ &nbsp; LAB CONSOLE — NAVIGATION</b></summary>
+<a id="mission"></a>
 
-| Module | Destination | Description |
-|:--|:--|:--|
-| 00 | [Introduction](#-the-laboratory) | Who we are |
-| 01 | [Disciplines](#-engineering-disciplines) | What we engineer |
-| 02 | [Systems](#-selected-engineering) | Products and projects |
-| 03 | [Frontier](#-research--frontier) | Experimental research |
-| 04 | [Architecture](#-how-we-engineer) | How we build |
-| 05 | [Technology](#-technology-matrix) | Our engineering toolkit |
-| 06 | [Open Lab](#-open-the-lab) | Collaboration and open source |
+## ◈ 00 / THE MISSION
 
-</details>
+Temple Labs is an independent software engineering and technology research laboratory.
 
-# ◈ THE LABORATORY
+We design, engineer and explore intelligent systems, computational infrastructure and digital products.
 
-We are an independent software engineering and technology research laboratory.
+Our work moves across disciplines. From artificial intelligence and distributed computing to cybersecurity, connected devices and experimental computing architectures.
 
-Temple Labs operates at the intersection of software engineering, applied intelligence, infrastructure and emerging technologies.
+We are not committed to a particular technology.
 
-Our work spans the entire lifecycle of an idea: from initial research and experimentation to architecture, implementation, deployment and continuous improvement.
-
-We are interested in difficult problems, unconventional approaches and systems that create measurable value.
-
-**Our philosophy is simple:**
-
-> Forge what doesn't exist. Improve what does. Advance what comes next.
+**We are committed to discovering better ways to solve problems.**
 
 ---
 
-# ⬡ ENGINEERING DISCIPLINES
+<a id="projects"></a>
 
-<details open>
-<summary><b>01 — ARTIFICIAL INTELLIGENCE & COMPUTATIONAL INTELLIGENCE</b></summary>
+# ⬡ 01 / PROJECT COMMAND CENTRE
 
-We develop intelligent software that can interpret information, reason over context, automate workflows and interact with the world.
+<sub>SELECTED SYSTEMS · ENGINEERING · EXPERIMENTATION</sub>
 
-- AI-powered applications and agents
-- LLM integrations and orchestration
-- Computer vision and identity intelligence
-- Applied machine learning
-- Intelligent workflow automation
-- Human-computer interaction
+Explore the projects. Each dossier expands to reveal its purpose and engineering direction.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ JARKATA
+
+**DIGITAL IDENTITY INTELLIGENCE**
+
+Real-time video-call impersonation detection for a world where seeing is no longer believing.
+
+`AI` `WebRTC` `Computer Vision`
+
+<a href="#jarkata">OPEN PROJECT DOSSIER ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ NFM26
+
+**FOOTBALL SIMULATION**
+
+A Nigerian football management universe combining tactical systems, player progression and match simulation.
+
+`Simulation` `Game Systems` `AI`
+
+<a href="#nfm26">OPEN PROJECT DOSSIER ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ SQWAD
+
+**DECENTRALIZED ECOSYSTEMS**
+
+Web3 infrastructure for discovery, digital profiles, community engagement and token ecosystems.
+
+`Web3` `Blockchain` `Smart Contracts`
+
+<a href="#sqwad">OPEN PROJECT DOSSIER ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ PROTON-X
+
+**ALTERNATIVE COMPUTING RESEARCH**
+
+An experimental computing concept investigating proton-based information transport as an alternative to conventional electron-based approaches.
+
+`Physics` `Computing Research` `Architecture`
+
+<a href="#proton-x">OPEN PROJECT DOSSIER ↗</a>
+
+</td>
+</tr>
+</table>
+
+### SYSTEM DOSSIERS
+
+<details id="jarkata">
+<summary><b>JARKATA / 001 — IDENTITY INTELLIGENCE</b></summary>
+
+**Mission**
+
+Explore how digital identity can be verified in real time during video communication.
+
+**Problem space**
+
+Video-call impersonation, synthetic identities and identity-based social engineering.
+
+**Engineering domains**
+
+- Browser-based media processing
+- Real-time video analysis
+- WebRTC integrations
+- AI-assisted identity detection
+- Enterprise security integrations
+
+**Target environments:** Recruitment, enterprise IT, online interactions.
+
+</details>
+
+<details id="nfm26">
+<summary><b>NFM26 / 002 — SPORTS SIMULATION</b></summary>
+
+**Mission**
+
+Build a rich football management simulation rooted in Nigerian football culture.
+
+**Systems**
+
+- Tactical formations and match engines
+- Player development and attributes
+- Club management and competition systems
+- 2D match simulation
+- Dynamic football narratives
+- Multilingual experiences
+
+**Engineering domains:** Simulation engineering, game systems, data modelling and interactive software.
+
+</details>
+
+<details id="sqwad">
+<summary><b>SQWAD / 003 — WEB3 ECOSYSTEMS</b></summary>
+
+**Mission**
+
+Explore decentralized digital communities and token-powered participation.
+
+**Systems**
+
+- Blockchain integrations
+- Wallet connectivity
+- Digital identity and profiles
+- Token discovery
+- Community engagement
+- Referral and rewards infrastructure
+
+</details>
+
+<details id="proton-x">
+<summary><b>PROTON-X / 004 — COMPUTATIONAL FRONTIER</b></summary>
+
+**Mission**
+
+Investigate whether alternative physical mechanisms can support new approaches to computation.
+
+**Research questions**
+
+- How could protons act as information carriers?
+- What physical mechanisms could enable controllable proton transport?
+- What materials and structures would be required?
+- How would information encoding and computational operations work?
+- What are the energy, speed, stability and fabrication constraints?
+
+**Important:** Proton-X is a conceptual research direction, not a demonstrated working processor.
+
+</details>
+
+---
+
+<a id="disciplines"></a>
+
+# ⬡ 02 / ENGINEERING DISCIPLINES
+
+<details>
+<summary><b>01 — ARTIFICIAL INTELLIGENCE</b></summary>
+
+Intelligent agents, applied machine learning, LLM orchestration, computer vision and autonomous workflows.
 
 </details>
 
 <details>
-<summary><b>02 — DISTRIBUTED SYSTEMS & COMPUTING</b></summary>
+<summary><b>02 — DISTRIBUTED COMPUTING</b></summary>
 
-We engineer the underlying systems that make modern software reliable, scalable and responsive.
-
-- Distributed application architecture
-- Event-driven systems
-- Messaging and asynchronous processing
-- Real-time communication
-- High-performance backend engineering
-- Experimental computing architectures
+Distributed services, messaging infrastructure, event-driven architecture, concurrency and real-time processing.
 
 </details>
 
 <details>
-<summary><b>03 — CLOUD, INFRASTRUCTURE & DEVOPS</b></summary>
+<summary><b>03 — CLOUD & INFRASTRUCTURE</b></summary>
 
-Software must survive beyond the development environment.
-
-- Cloud-native architecture
-- Containerization and orchestration
-- Infrastructure automation
-- CI/CD pipelines
-- Observability and telemetry
-- Deployment and operational reliability
+Cloud-native systems, container orchestration, deployment automation, observability and production reliability.
 
 </details>
 
 <details>
 <summary><b>04 — SECURITY & DIGITAL TRUST</b></summary>
 
-We explore technologies that help establish trust in increasingly digital environments.
-
-- Identity verification
-- Impersonation detection
-- Application security
-- Secure system architecture
-- Privacy-conscious engineering
-- Threat-aware automation
+Identity verification, secure application architecture, privacy-aware systems and threat intelligence.
 
 </details>
 
 <details>
-<summary><b>05 — BLOCKCHAIN & WEB3</b></summary>
+<summary><b>05 — WEB3 & BLOCKCHAIN</b></summary>
 
-We experiment with decentralized systems and the infrastructure surrounding digital ownership and coordination.
-
-- Smart contract integrations
-- Wallet infrastructure
-- Token ecosystems
-- Decentralized applications
-- On-chain data integration
+Smart contracts, decentralized applications, wallet infrastructure and blockchain integrations.
 
 </details>
 
 <details>
 <summary><b>06 — CONNECTED SYSTEMS & IOT</b></summary>
 
-Connecting computation with the physical world.
-
-- Device communication
-- Sensor networks
-- Telemetry and monitoring
-- Intelligent automation
-- Industrial and environmental applications
+Sensors, telemetry, device communication, edge computing and intelligent automation.
 
 </details>
 
 ---
 
-# ⬢ SELECTED ENGINEERING
+<a id="architecture"></a>
 
-Not everything we build belongs to the same category. Some projects are products. Others are experiments, infrastructure or explorations into entirely different computing paradigms.
+# ⬡ 03 / SYSTEM ARCHITECTURE
 
-<details open>
-<summary><b>01 / JARKATA — DIGITAL IDENTITY INTELLIGENCE</b> · Expand dossier</summary>
-
-**The problem:** Seeing someone on a video call does not necessarily establish that they are who they claim to be.
-
-Jarkata explores real-time detection of video-call impersonation across modern communication platforms.
-
-The broader vision is to make identity verification an intelligent layer of digital communication.
-
-**Application domains**
-
-- Recruitment and remote interviews
-- Enterprise security
-- Social and online interactions
-- Digital identity protection
-
-**Engineering focus**
-
-`AI` `Computer Vision` `WebRTC` `Browser Extensions` `Real-time Processing`
-
-</details>
-
-<details>
-<summary><b>02 / NFM26 — FOOTBALL SIMULATION & MANAGEMENT</b> · Expand dossier</summary>
-
-A football management simulation built around the depth, character and possibilities of Nigerian football.
-
-NFM26 explores the intersection of sports management, simulation engineering and interactive game systems.
-
-**Systems**
-
-- Tactical formation and match management
-- Player development and progression
-- 2D match simulation
-- Football club management
-- Competition and league systems
-- Multilingual player experiences
-
-**Engineering focus**
-
-`Simulation` `Game Systems` `AI` `Frontend Engineering` `Data Modelling`
-
-</details>
-
-<details>
-<summary><b>03 / SQWAD — DECENTRALIZED DIGITAL ECOSYSTEMS</b> · Expand dossier</summary>
-
-An exploration of Web3 infrastructure, digital communities and token-powered engagement.
-
-SQWAD brings together discovery, profiles, digital participation and blockchain integrations.
-
-**Systems**
-
-- Token ecosystem infrastructure
-- Wallet connectivity
-- Digital profiles and directories
-- Community engagement
-- Referral and rewards mechanisms
-
-**Engineering focus**
-
-`Blockchain` `Web3` `Smart Contracts` `Next.js` `Wallet Infrastructure`
-
-</details>
-
-<details>
-<summary><b>04 / PROTON-X — ALTERNATIVE COMPUTING RESEARCH</b> · Expand dossier</summary>
-
-**What if the fundamental assumptions behind electronic computing could be challenged?**
-
-Proton-X is an experimental computing concept exploring the possibility of using protons rather than electrons as information carriers in computing systems.
-
-It opens questions around alternative charge transport, physical computing architectures, material constraints and the feasibility of proton-based computational mechanisms.
-
-This is a research direction, not a claim of a functioning proton-based processor.
-
-**Research dimensions**
-
-- Proton transport and charge behaviour
-- Alternative computational architectures
-- Physical and material constraints
-- Information representation
-- Theoretical feasibility and engineering challenges
-
-**Research domain**
-
-`Computational Physics` `Advanced Computing` `Systems Research` `Experimental Architecture`
-
-</details>
-
----
-
-# ⌘ RESEARCH & FRONTIER
-
-We believe the most interesting engineering questions often exist beyond established product categories.
-
-Our research interests include:
-
-| Frontier | Question |
-|:--|:--|
-| Alternative computing | Can computation be approached through different physical mechanisms? |
-| Applied intelligence | How can AI become a dependable component of real-world systems? |
-| Digital identity | How can digital presence become more trustworthy? |
-| Distributed infrastructure | How can complex systems remain resilient under unpredictable conditions? |
-| Human-machine interaction | How should people interact with increasingly intelligent systems? |
-| Connected environments | How can software meaningfully interact with physical infrastructure? |
-
-Research is not a marketing label. It means asking questions, investigating assumptions and distinguishing demonstrated results from theoretical possibilities.
-
----
-
-# ⌬ HOW WE ENGINEER
-
-We approach engineering as a continuous process rather than a sequence of disconnected coding tasks.
+**How we think about building systems.**
 
 ```mermaid
-flowchart TD
-    A["01 · OBSERVE<br/>Identify the problem"] --> B["02 · INVESTIGATE<br/>Research & validate assumptions"]
-    B --> C["03 · ARCHITECT<br/>Design the system"]
-    C --> D["04 · ENGINEER<br/>Build the implementation"]
-    D --> E["05 · VERIFY<br/>Test, measure & audit"]
-    E --> F["06 · DEPLOY<br/>Release into reality"]
-    F --> G["07 · EVOLVE<br/>Monitor, learn & improve"]
-    G --> B
+flowchart TB
+    U["USER / EXTERNAL SYSTEMS"]
+    A["APPLICATIONS & INTERFACES"]
+    B["INTELLIGENCE & ORCHESTRATION"]
+    C["CORE SERVICES & APIs"]
+    D["DATA & EVENT INFRASTRUCTURE"]
+    E["CLOUD / EDGE / COMPUTE"]
 
-    classDef stage fill:#101713,stroke:#16B86B,color:#D8F5E5,stroke-width:1px
-    class A,B,C,D,E,F,G stage
+    U <--> A
+    A <--> B
+    B <--> C
+    C <--> D
+    D <--> E
+
+    E -.-> M["OBSERVABILITY & TELEMETRY"]
+    M -.-> C
+
+    classDef primary fill:#071B11,stroke:#16C784,color:#E4FFF1
+    classDef infra fill:#101820,stroke:#2489B5,color:#E1F4FF
+
+    class U,A,B,C primary
+    class D,E,M infra
 ```
 
-### Our engineering principles
+<details>
+<summary><b>EXPLORE THE ARCHITECTURAL LAYERS</b></summary>
 
-- **First principles:** Understand why a system works before deciding how to build it.
-- **Precision:** Prefer measurable engineering over impressive-sounding claims.
-- **Resilience:** Design for failures, unexpected conditions and imperfect environments.
-- **Simplicity:** Reduce complexity without sacrificing capability.
-- **Iteration:** Build, validate, learn and improve.
-- **Curiosity:** Never confuse today's technical limitations with the boundaries of tomorrow.
+| Layer | Responsibility |
+|---|---|
+| Interface | User interaction and external integrations |
+| Intelligence | AI, decision-making and orchestration |
+| Core services | Business logic and application capabilities |
+| Data infrastructure | Persistence, messaging and event processing |
+| Compute | Cloud, edge and deployment infrastructure |
+| Observability | Monitoring, tracing, metrics and diagnostics |
+
+This is a conceptual reference architecture. Individual systems use architectures appropriate to their requirements.
+
+</details>
 
 ---
 
-# ⬡ TECHNOLOGY MATRIX
+<a id="research"></a>
 
-Our stack is selected according to the problem, not the other way around.
+# ⬡ 04 / RESEARCH FRONTIER
+
+**Questions worth investigating.**
+
+| Research area | Exploration |
+|---|---|
+| Alternative computing | Proton-based computational mechanisms |
+| Intelligent systems | Reliable autonomous agents |
+| Digital trust | Real-time identity intelligence |
+| Distributed systems | Resilient computational infrastructure |
+| Human-machine interfaces | More natural intelligent interactions |
+| Connected environments | Software interacting with physical infrastructure |
+
+<details>
+<summary><b>OUR RESEARCH PHILOSOPHY</b></summary>
+
+We distinguish between:
+
+- **Established engineering:** Systems that can be implemented and validated.
+- **Experimental engineering:** Approaches under active investigation.
+- **Conceptual research:** Ideas requiring further theoretical and practical validation.
+
+An interesting hypothesis is not an engineering achievement until evidence supports it.
+
+</details>
+
+---
+
+<a id="technology"></a>
+
+# ⬡ 05 / TECHNOLOGY MATRIX
 
 <details open>
 <summary><b>LANGUAGES & RUNTIMES</b></summary>
@@ -314,14 +345,14 @@ Our stack is selected according to the problem, not the other way around.
 </details>
 
 <details>
-<summary><b>INFRASTRUCTURE & OPERATIONS</b></summary>
+<summary><b>INFRASTRUCTURE</b></summary>
 
-`Linux` · `Docker` · `Kubernetes` · `AWS` · `Terraform` · `GitHub Actions` · `OpenTelemetry`
+`AWS` · `Docker` · `Kubernetes` · `Terraform` · `Linux` · `OpenTelemetry`
 
 </details>
 
 <details>
-<summary><b>REAL-TIME & CONNECTIVITY</b></summary>
+<summary><b>REAL-TIME SYSTEMS</b></summary>
 
 `WebSockets` · `WebRTC` · `WebTransport` · `REST APIs` · `Event-Driven Architecture`
 
@@ -329,40 +360,47 @@ Our stack is selected according to the problem, not the other way around.
 
 ---
 
-# ◈ OPEN THE LAB
+<a id="connect"></a>
 
-We welcome thoughtful collaboration with engineers, researchers, designers, founders and open-source contributors.
+# ⬡ 06 / OPEN THE LAB
 
-We are particularly interested in:
+We welcome engineers, researchers, founders, designers and open-source contributors who are interested in building meaningful technology.
 
-- Engineers who enjoy solving difficult technical problems.
-- Researchers exploring emerging computing paradigms.
-- Developers building useful open-source infrastructure.
-- People interested in AI, distributed systems and intelligent automation.
-- Collaborators who value execution, technical integrity and experimentation.
+**Areas of collaboration**
 
-**Interested in building something together?**
-
-[Explore Temple Labs repositories →](https://github.com/tlabsxten?tab=repositories)
-
-[Open a discussion →](https://github.com/tlabsxten/.github/discussions)
-
-[Explore open issues →](https://github.com/tlabsxten?tab=issues)
-
----
-
-<div align="center">
-
-# THE FUTURE IS NOT A SPECTATOR SPORT.
-
-### WE FORGE IT.
+- Open-source engineering
+- Applied AI research
+- Distributed infrastructure
+- Experimental computing
+- Product development
+- Systems architecture
 
 <br/>
 
-**T E M P L E &nbsp; L A B S**
+<div align="center">
 
-*Forge / advancing humanity.*
+### HAVE AN INTERESTING PROBLEM?
 
-<sub>INDEPENDENT THINKING. PRECISE ENGINEERING. UNFINISHED FRONTIERS.</sub>
+**LET'S ENGINEER THE ANSWER.**
+
+<br/>
+
+<a href="https://github.com/tlabsxten?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-16C784?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/tlabsxten">
+<img src="https://img.shields.io/badge/ENTER_THE_LAB-111111?style=for-the-badge&logo=github&logoColor=white" alt="Enter the lab"/>
+</a>
+
+<br/><br/>
+
+---
+
+# TEMPLE LABS
+
+### FORGE / ADVANCING HUMANITY.
+
+<sub>INNOVATE · ENGINEER · DEPLOY · EVOLVE</sub>
 
 </div>
